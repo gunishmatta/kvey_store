@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c031886e-aa5c-4d07-a049-357f394a4eb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gunish/command/GetCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gunish/command/PingCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gunish/command/PutCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gunish/command/RemoveCommand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680452673799</updated>
-      <workItem from="1680452674907" duration="522000" />
+      <workItem from="1680452674907" duration="645000" />
     </task>
     <servers />
   </component>
